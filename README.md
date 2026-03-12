@@ -1,5 +1,7 @@
 # Geodesic Retrieval over Learned Manifolds
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18971939.svg)](https://doi.org/10.5281/zenodo.18971939)
+
 A differential geometry approach to knowledge base search. Instead of retrieving by cosine similarity in flat embedding spaces, we construct a Riemannian manifold over the knowledge base using diffusion maps and retrieve along geodesic shortest paths.
 
 **Key results** (75,867 cybersecurity knowledge facts):
@@ -65,7 +67,7 @@ If you use this work, please cite:
 
 ```
 Olenick, B. (2026). Geodesic Retrieval over Learned Manifolds: A Differential
-Geometry Approach to Knowledge Base Search. Zenodo.
+Geometry Approach to Knowledge Base Search. Zenodo. https://doi.org/10.5281/zenodo.18971939
 ```
 
 ## License
